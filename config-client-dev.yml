@@ -1,4 +1,4 @@
 info:
   profile: dev
 spring:
-  datasource: http://www.baidu.com/
+  datasource: http://www.baidu.com/?name=1
