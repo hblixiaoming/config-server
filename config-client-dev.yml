@@ -1,4 +1,4 @@
 info:
   profile: dev
-server:
-  port: 8080
+spring:
+  datasource: http://www.baidu.com
